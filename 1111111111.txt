@@ -1,2 +1,0 @@
-2LN2S8ppvoBiWLlhPmFcOUszUGsXojIxvFyHsKEdOn0hP/aft1cgN33vfdXLwhA/MrDmeDbaxnvSv9vN4EmaHw==
-postgresql://postgres.kthtnfctcraihsvxflub:[YOUR-PASSWORD]@aws-1-ap-south-1.pooler.supabase.com:5432/postgres
